@@ -5,3 +5,7 @@
  * Template: blocksy
  * Text Domain: blocksy
  */
+
+ .span.site-title {
+    font-size: 5em;
+ }
